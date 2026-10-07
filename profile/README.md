@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/baselinerhq/baseliner">
     <img src="https://baselinerhq.github.io/social-preview.png" width="640"
-      alt="baseliner — scores your repo fleet against your own hygiene baseline">
+      alt="baseliner — assessment-as-code for repository fleets: your policy, and what it can’t see">
   </a>
 </p>
 
